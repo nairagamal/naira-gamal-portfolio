@@ -1,150 +1,269 @@
-# Naira Gamal — Full-Stack .NET Developer Portfolio
+<div align="center">
 
-A modern, interactive personal portfolio website built to showcase my experience, technical skills, projects, and professional journey as a **Full-Stack .NET Developer**.
+# NAIRA GAMAL
 
-The portfolio is built as a full-stack application with a dedicated frontend, backend API, database, and admin dashboard for managing portfolio content dynamically.
+### Full-Stack .NET Developer
 
-## ✨ Overview
+<p>
+  <strong>Modern • Interactive • Full-Stack Portfolio</strong>
+</p>
 
-This portfolio was designed and developed from scratch with a focus on:
+<p>
+  A modern personal portfolio built from scratch to showcase my
+  <br />
+  projects, technical skills, experience, and professional journey.
+</p>
 
-* Modern and responsive UI
-* Smooth animations and interactions
-* Clean and structured architecture
-* Dynamic content management
-* Responsive experience across desktop, tablet, and mobile
-* Scalable backend architecture
+<br />
 
-Rather than using a static portfolio template, the website is connected to a backend API and an administration dashboard, allowing the content to be managed dynamically.
+<a href="https://raw.githubusercontent.com/nairagamal/naira-gamal-portfolio/refs/heads/main/screenshots/portfolio-desktop.JPG">
+  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-6B1F3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"/>
+</a>
+<a href="https://github.com/nairagamal">
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/naira-gamal/">
+  <img src="https://img.shields.io/badge/LINKEDIN-6B1F3A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-## 🏗️ Architecture
+<br /><br />
 
-The project is divided into three main parts:
+<img
+src="https://raw.githubusercontent.com/nairagamal/naira-gamal-portfolio/refs/heads/main/screenshots/portfolio-desktop.JPG"
+alt="Naira Gamal Portfolio Preview"
+width="92%"
+/>
+
+</div>
+
+---
+
+## ✦ About The Project
+
+This repository contains my personal **Full-Stack Developer Portfolio**, designed and developed from scratch to showcase my professional experience, technical skills, selected projects, and development journey.
+
+The portfolio is more than a static website. It was developed as a **full-stack web application** with a dedicated frontend, backend API, database, and administration dashboard.
+
+The architecture allows portfolio content to be managed dynamically through the dashboard instead of modifying the frontend source code every time new content needs to be added.
+
+---
+
+## ⚡ Project Highlights
+
+| Feature             | Description                                           |
+| ------------------- | ----------------------------------------------------- |
+| 🎨 Modern UI        | Clean, responsive and interactive portfolio interface |
+| ⚡ Animations        | GSAP-powered animations and smooth interactions       |
+| 🌀 Smooth Scrolling | Lenis smooth scrolling experience                     |
+| 🔌 REST API         | Dedicated ASP.NET Core Web API                        |
+| 🗄️ Database        | SQL Server with Entity Framework Core                 |
+| 🛠️ Admin Dashboard | Manage portfolio content dynamically                  |
+| 🔐 Authentication   | Protected administrative functionality                |
+| 📱 Responsive       | Optimized for desktop, tablet and mobile              |
+| 🔄 Dynamic Content  | Content retrieved and managed through the API         |
+
+---
+
+# 🏗️ Architecture
+
+The application is built using a **Frontend → API → Database** architecture with an additional administration layer for managing the portfolio content.
 
 ```text
-Portfolio
-│
-├── Frontend
-│   └── Portfolio website
-│
-├── Backend
-│   └── ASP.NET Core Web API
-│
-└── Admin Dashboard
-    └── Content management
+                         ┌─────────────────────────┐
+                         │         VISITOR         │
+                         │                         │
+                         │    Portfolio Website    │
+                         └────────────┬────────────┘
+                                      │
+                                      │ REST API
+                                      ▼
+                         ┌─────────────────────────┐
+                         │      ASP.NET CORE       │
+                         │          API            │
+                         │                         │
+                         │  Controllers            │
+                         │  Services               │
+                         │  Business Logic         │
+                         │  Authentication         │
+                         └────────────┬────────────┘
+                                      │
+                                      │ EF Core
+                                      ▼
+                         ┌─────────────────────────┐
+                         │       SQL SERVER        │
+                         │                         │
+                         │  Projects               │
+                         │  Skills                 │
+                         │  Experience             │
+                         │  Education              │
+                         │  Portfolio Content      │
+                         └─────────────────────────┘
+
+
+                         ┌─────────────────────────┐
+                         │     ADMIN DASHBOARD     │
+                         │                         │
+                         │  Manage Projects        │
+                         │  Manage Skills          │
+                         │  Manage Experience      │
+                         │  Manage Content         │
+                         └────────────┬────────────┘
+                                      │
+                                      │ REST API
+                                      ▼
+                               ASP.NET Core API
 ```
+
+---
+
+# 🎨 Frontend
+
+The frontend was designed to provide a modern and interactive user experience while keeping the interface clean and focused on presenting my professional profile and projects.
+
+### ✨ Features
+
+* Responsive design
+* Modern dark / burgundy visual style
+* Smooth scrolling
+* Scroll-based animations
+* Interactive sections
+* Project showcase
+* Skills and experience sections
+* Mobile-friendly layout
+* Micro-interactions
+
+### 🛠️ Technologies
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Lenis-111111?style=flat-square"/>
+</p>
+
+---
+
+# 🔌 Backend API
+
+The portfolio is powered by a dedicated **ASP.NET Core Web API** that handles application data, business logic, and communication with the database.
+
+### Backend responsibilities
+
+* RESTful API endpoints
+* CRUD operations
+* Business logic
+* Data access
+* Authentication & authorization
+* Portfolio content management
+* Database communication
+* Request validation
+
+### 🛠️ Technologies
+
+<p>
+<img src="https://img.shields.io/badge/C%23-6B1F3A?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-6B1F3A?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-111111?style=flat-square"/>
+</p>
+
+---
+
+# 🛠️ Admin Dashboard
+
+The portfolio includes a dedicated administration dashboard for managing its content dynamically.
+
+Instead of editing the source code whenever information changes, the dashboard provides a centralized interface for managing the portfolio.
+
+### Dashboard capabilities
+
+* Manage projects
+* Manage technical skills
+* Manage professional experience
+* Manage education
+* Manage services
+* Manage portfolio content
+* Update information dynamically
+
+The dashboard communicates with the backend through the REST API.
+
+---
+
+# 🗄️ Database
+
+The application uses **Microsoft SQL Server** for persistent data storage.
+
+**Entity Framework Core** is used as the ORM to handle communication between the ASP.NET Core API and the database.
+
+```text
+Frontend
+    │
+    │ HTTP Requests
+    ▼
+ASP.NET Core Web API
+    │
+    │ Entity Framework Core
+    ▼
+SQL Server
+```
+
+---
+
+# 🔐 Authentication & Authorization
+
+Administrative functionality is protected using authentication and authorization mechanisms.
+
+Protected API endpoints ensure that only authorized users can perform administrative operations such as creating, updating, or deleting portfolio content.
+
+---
+
+# 🧰 Tech Stack
 
 ### Frontend
 
-The portfolio frontend is responsible for the visual experience and user interaction.
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Lenis-111111?style=flat-square"/>
+</p>
 
-**Technologies:**
+### Backend
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* GSAP
-* Lenis
-* Responsive Web Design
+<p>
+<img src="https://img.shields.io/badge/C%23-6B1F3A?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-6B1F3A?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-111111?style=flat-square"/>
+</p>
 
-The interface includes animated sections, smooth scrolling, interactive project cards, skills, experience, and contact information.
+### Database & Tools
 
-### Backend API
+<p>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
 
-The portfolio is powered by a dedicated **ASP.NET Core Web API** responsible for handling the application's data and business logic.
+---
 
-**Technologies:**
-
-* C#
-* ASP.NET Core Web API
-* Entity Framework Core
-* SQL Server
-* RESTful APIs
-* Authentication & Authorization
-
-The API provides endpoints for managing portfolio content and connecting the frontend and dashboard with the database.
-
-### Admin Dashboard
-
-A dedicated dashboard was developed to manage the portfolio content without modifying the frontend code.
-
-The dashboard allows managing areas such as:
-
-* Projects
-* Skills
-* Experience
-* Education
-* Services
-* Contact information
-* Portfolio content
-
-This makes the portfolio easier to maintain and extend as new projects and experiences are added.
-
-## 🗄️ Database
-
-The application uses **Microsoft SQL Server** for storing and managing portfolio data.
-
-Entity Framework Core is used as the ORM for database operations and communication between the API and database.
-
-## 🔐 Security
-
-The backend includes authentication and authorization mechanisms to protect administrative functionality and ensure that content management operations are restricted to authorized users.
-
-## 🎨 Design & User Experience
-
-The portfolio focuses on creating a modern developer experience rather than a traditional static CV website.
-
-Key aspects include:
-
-* Minimal and modern visual design
-* Smooth scrolling
-* Micro-interactions
-* Scroll-based animations
-* Responsive layouts
-* Clear project presentation
-* Mobile-friendly design
-
-## 🚀 Main Features
-
-* Dynamic portfolio content
-* Project showcase
-* Skills & technologies
-* Professional experience
-* Education
-* Services
-* Contact section
-* Admin dashboard
-* RESTful API
-* SQL Server database
-* Authentication & authorization
-* Responsive design
-* GSAP animations
-* Smooth scrolling with Lenis
-
-## 🛠️ Tech Stack
-
-| Layer          | Technologies                         |
-| -------------- | ------------------------------------ |
-| Frontend       | HTML, CSS, JavaScript, Bootstrap     |
-| Animations     | GSAP, Lenis                          |
-| Backend        | C#, ASP.NET Core Web API             |
-| ORM            | Entity Framework Core                |
-| Database       | SQL Server                           |
-| API            | RESTful API                          |
-| Authentication | JWT / Authorization                  |
-| Tools          | Git, GitHub, Visual Studio / VS Code |
-
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```text
-portfolio/
+naira-gamal-portfolio/
 │
 ├── frontend/
 │   ├── assets/
 │   ├── css/
 │   ├── js/
-│   └── index.html
+│   └── ...
 │
 ├── backend/
 │   ├── Controllers/
@@ -153,30 +272,118 @@ portfolio/
 │   ├── Data/
 │   └── ...
 │
-└── dashboard/
-    └── ...
+├── screenshots/
+│   └── portfolio-desktop.JPG
+│
+└── README.md
 ```
-
-## 📸 Portfolio Preview
-
-*Add screenshots or GIFs of the portfolio interface here.*
-
-## 🌐 Live Portfolio
-
-**Live Website:**
-[View My Portfolio](https://nairagamal.ngamal.workers.dev/)
-
-## 👩‍💻 About Me
-
-I'm **Naira Gamal**, a Full-Stack .NET Developer with a focus on building web applications using **C#, ASP.NET Core, SQL Server, and modern frontend technologies**.
-
-I enjoy turning ideas and requirements into complete web solutions — from database design and backend APIs to responsive interfaces and deployment.
-
-## 📬 Connect With Me
-
-* **LinkedIn:** [linkedin.com/in/naira-gamal](https://www.linkedin.com/in/naira-gamal/)
-* **GitHub:** [github.com/nairagamal](https://github.com/nairagamal)
 
 ---
 
-**Built with C#, ASP.NET Core, SQL Server, JavaScript, GSAP & Lenis.**
+# 📸 Screenshots
+
+## Desktop
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/nairagamal/naira-gamal-portfolio/refs/heads/main/screenshots/portfolio-desktop.JPG"
+    width="92%"
+    alt="Portfolio Desktop Preview"
+  />
+</p>
+
+---
+
+## 📱 Responsive Design
+
+The portfolio is designed to adapt across different screen sizes, providing a consistent experience on desktop, tablet, and mobile devices.
+
+> Additional mobile and dashboard screenshots can be added here as the project evolves.
+
+---
+
+# 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/nairagamal/naira-gamal-portfolio.git
+```
+
+### 2. Frontend
+
+Navigate to the frontend directory and run the project using your preferred local development server.
+
+### 3. Backend
+
+Open the backend project in Visual Studio and configure the required SQL Server connection string.
+
+```json
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "YOUR_CONNECTION_STRING"
+  }
+}
+```
+
+Apply the database migrations:
+
+```bash
+dotnet ef database update
+```
+
+Then run the ASP.NET Core API.
+
+### 4. Dashboard
+
+Configure the API base URL for the dashboard and run the dashboard application.
+
+---
+
+# 🌐 Live Portfolio
+
+<p align="center">
+
+<a href="https://nairagamal.ngamal.workers.dev/">
+<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-6B1F3A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+I'm **Naira Gamal**, a Full-Stack .NET Developer focused on building modern web applications and backend systems.
+
+My primary technologies include:
+
+**C# • ASP.NET Core • Web API • SQL Server • Entity Framework Core • JavaScript • Angular**
+
+I enjoy working across the complete development cycle — from understanding requirements and designing databases to developing APIs, building responsive interfaces, and deploying applications.
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/naira-gamal/">
+<img src="https://img.shields.io/badge/LinkedIn-6B1F3A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nairagamal">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Built with passion & code.
+
+**Naira Gamal © 2026**
+
+</div>
