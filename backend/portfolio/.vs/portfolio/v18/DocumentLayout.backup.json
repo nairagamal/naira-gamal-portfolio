@@ -1,0 +1,677 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Naira\\lenis\\backend\\portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Migrations\\20260922054756_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:portfolio\\Migrations\\20260922054756_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\validators\\projectvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\validators\\projectvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\validators\\createtestimonialvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\validators\\createtestimonialvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\validators\\createexperiencevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\validators\\createexperiencevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\services\\testimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\services\\testimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\services\\experienceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\services\\experienceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\services\\contactmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\services\\contactmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\interfaces\\itestimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\interfaces\\itestimonialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\interfaces\\iexperienceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\interfaces\\iexperienceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\interfaces\\icontactmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\interfaces\\icontactmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\entities\\testimonial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\entities\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\entities\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\entities\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\dtos\\testimonialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\dtos\\testimonialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\dtos\\experiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\dtos\\experiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\dtos\\contactmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\dtos\\contactmessagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\dtos\\authdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\controllers\\testimonialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\testimonialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\controllers\\experiencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\experiencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\controllers\\contactmessagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\controllers\\contactmessagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Naira\\Naira Gamal Portifolio\\lenis\\backend\\portfolio\\portfolio\\Migrations\\20260511060357_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|d:\\naira\\lenis\\backend\\portfolio\\portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B62FC83-77C4-439F-B894-1A58AE7A1BFB}|portfolio\\portfolio.csproj|solutionrelative:portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 352,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260922054756_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Migrations\\20260922054756_InitialCreate.cs",
+              "RelativeDocumentMoniker": "portfolio\\Migrations\\20260922054756_InitialCreate.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Migrations\\20260922054756_InitialCreate.cs",
+              "RelativeToolTip": "portfolio\\Migrations\\20260922054756_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:47:56.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTestimonialValidator.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Validators\\CreateTestimonialValidator.cs",
+              "RelativeDocumentMoniker": "portfolio\\Validators\\CreateTestimonialValidator.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Validators\\CreateTestimonialValidator.cs",
+              "RelativeToolTip": "portfolio\\Validators\\CreateTestimonialValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectValidator.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Validators\\ProjectValidator.cs",
+              "RelativeDocumentMoniker": "portfolio\\Validators\\ProjectValidator.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Validators\\ProjectValidator.cs",
+              "RelativeToolTip": "portfolio\\Validators\\ProjectValidator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Program.cs",
+              "RelativeDocumentMoniker": "portfolio\\Program.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Program.cs",
+              "RelativeToolTip": "portfolio\\Program.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAowMIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\appsettings.json",
+              "RelativeDocumentMoniker": "portfolio\\appsettings.json",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\appsettings.json",
+              "RelativeToolTip": "portfolio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-22T05:45:29.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "portfolio\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "portfolio\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwIgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateExperienceValidator.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Validators\\CreateExperienceValidator.cs",
+              "RelativeDocumentMoniker": "portfolio\\Validators\\CreateExperienceValidator.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Validators\\CreateExperienceValidator.cs",
+              "RelativeToolTip": "portfolio\\Validators\\CreateExperienceValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "portfolio\\Services\\ProjectService.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Services\\ProjectService.cs",
+              "RelativeToolTip": "portfolio\\Services\\ProjectService.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAowPAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestimonialService.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Services\\TestimonialService.cs",
+              "RelativeDocumentMoniker": "portfolio\\Services\\TestimonialService.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Services\\TestimonialService.cs",
+              "RelativeToolTip": "portfolio\\Services\\TestimonialService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAkwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Services\\IProjectService.cs",
+              "RelativeDocumentMoniker": "portfolio\\Services\\IProjectService.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Services\\IProjectService.cs",
+              "RelativeToolTip": "portfolio\\Services\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "portfolio\\Services\\FileService.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Services\\FileService.cs",
+              "RelativeToolTip": "portfolio\\Services\\FileService.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAkwJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExperienceService.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Services\\ExperienceService.cs",
+              "RelativeDocumentMoniker": "portfolio\\Services\\ExperienceService.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Services\\ExperienceService.cs",
+              "RelativeToolTip": "portfolio\\Services\\ExperienceService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAkwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactMessageService.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Services\\ContactMessageService.cs",
+              "RelativeDocumentMoniker": "portfolio\\Services\\ContactMessageService.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Services\\ContactMessageService.cs",
+              "RelativeToolTip": "portfolio\\Services\\ContactMessageService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "portfolio\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "portfolio\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "portfolio\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "portfolio\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "portfolio\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "portfolio\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "portfolio\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "portfolio\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITestimonialService.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Interfaces\\ITestimonialService.cs",
+              "RelativeDocumentMoniker": "portfolio\\Interfaces\\ITestimonialService.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Interfaces\\ITestimonialService.cs",
+              "RelativeToolTip": "portfolio\\Interfaces\\ITestimonialService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Interfaces\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "portfolio\\Interfaces\\IProjectRepository.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Interfaces\\IProjectRepository.cs",
+              "RelativeToolTip": "portfolio\\Interfaces\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "portfolio\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "portfolio\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "portfolio\\Interfaces\\IFileService.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "portfolio\\Interfaces\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IExperienceService.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Interfaces\\IExperienceService.cs",
+              "RelativeDocumentMoniker": "portfolio\\Interfaces\\IExperienceService.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Interfaces\\IExperienceService.cs",
+              "RelativeToolTip": "portfolio\\Interfaces\\IExperienceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IContactMessageService.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Interfaces\\IContactMessageService.cs",
+              "RelativeDocumentMoniker": "portfolio\\Interfaces\\IContactMessageService.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Interfaces\\IContactMessageService.cs",
+              "RelativeToolTip": "portfolio\\Interfaces\\IContactMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Testimonial.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Entities\\Testimonial.cs",
+              "RelativeDocumentMoniker": "portfolio\\Entities\\Testimonial.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Entities\\Testimonial.cs",
+              "RelativeToolTip": "portfolio\\Entities\\Testimonial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "portfolio\\Entities\\Project.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Entities\\Project.cs",
+              "RelativeToolTip": "portfolio\\Entities\\Project.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Entities\\Experience.cs",
+              "RelativeDocumentMoniker": "portfolio\\Entities\\Experience.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Entities\\Experience.cs",
+              "RelativeToolTip": "portfolio\\Entities\\Experience.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Entities\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "portfolio\\Entities\\ContactMessage.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Entities\\ContactMessage.cs",
+              "RelativeToolTip": "portfolio\\Entities\\ContactMessage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "portfolio\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "portfolio\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "portfolio\\Entities\\Admin.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Entities\\Admin.cs",
+              "RelativeToolTip": "portfolio\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TestimonialDto.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\DTOs\\TestimonialDto.cs",
+              "RelativeDocumentMoniker": "portfolio\\DTOs\\TestimonialDto.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\DTOs\\TestimonialDto.cs",
+              "RelativeToolTip": "portfolio\\DTOs\\TestimonialDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProjectDto.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\DTOs\\ProjectDto.cs",
+              "RelativeDocumentMoniker": "portfolio\\DTOs\\ProjectDto.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\DTOs\\ProjectDto.cs",
+              "RelativeToolTip": "portfolio\\DTOs\\ProjectDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ExperienceDto.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\DTOs\\ExperienceDto.cs",
+              "RelativeDocumentMoniker": "portfolio\\DTOs\\ExperienceDto.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\DTOs\\ExperienceDto.cs",
+              "RelativeToolTip": "portfolio\\DTOs\\ExperienceDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ContactMessageDto.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\DTOs\\ContactMessageDto.cs",
+              "RelativeDocumentMoniker": "portfolio\\DTOs\\ContactMessageDto.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\DTOs\\ContactMessageDto.cs",
+              "RelativeToolTip": "portfolio\\DTOs\\ContactMessageDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthDto.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\DTOs\\AuthDto.cs",
+              "RelativeDocumentMoniker": "portfolio\\DTOs\\AuthDto.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\DTOs\\AuthDto.cs",
+              "RelativeToolTip": "portfolio\\DTOs\\AuthDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "portfolio\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "portfolio\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TestimonialsController.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Controllers\\TestimonialsController.cs",
+              "RelativeDocumentMoniker": "portfolio\\Controllers\\TestimonialsController.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Controllers\\TestimonialsController.cs",
+              "RelativeToolTip": "portfolio\\Controllers\\TestimonialsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "portfolio\\Controllers\\ProjectsController.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "portfolio\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAkwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ExperiencesController.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Controllers\\ExperiencesController.cs",
+              "RelativeDocumentMoniker": "portfolio\\Controllers\\ExperiencesController.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Controllers\\ExperiencesController.cs",
+              "RelativeToolTip": "portfolio\\Controllers\\ExperiencesController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ContactMessagesController.cs",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Controllers\\ContactMessagesController.cs",
+              "RelativeDocumentMoniker": "portfolio\\Controllers\\ContactMessagesController.cs",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\Controllers\\ContactMessagesController.cs",
+              "RelativeToolTip": "portfolio\\Controllers\\ContactMessagesController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20260511060357_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Naira\\Naira Gamal Portifolio\\lenis\\backend\\portfolio\\portfolio\\Migrations\\20260511060357_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Naira Gamal Portifolio\\lenis\\backend\\portfolio\\portfolio\\Migrations\\20260511060357_InitialCreate.cs",
+              "ToolTip": "D:\\Naira\\Naira Gamal Portifolio\\lenis\\backend\\portfolio\\portfolio\\Migrations\\20260511060357_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\Naira Gamal Portifolio\\lenis\\backend\\portfolio\\portfolio\\Migrations\\20260511060357_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T05:45:29.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "portfolio.csproj",
+              "DocumentMoniker": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\portfolio.csproj",
+              "RelativeDocumentMoniker": "portfolio\\portfolio.csproj",
+              "ToolTip": "D:\\Naira\\lenis\\backend\\portfolio\\portfolio\\portfolio.csproj",
+              "RelativeToolTip": "portfolio\\portfolio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-22T05:45:29.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
